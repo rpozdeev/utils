@@ -1,3 +1,3 @@
-module github.com/rpozdeev/utils/v2
+module github.com/rpozdeev/utils/v3
 
 go 1.15
